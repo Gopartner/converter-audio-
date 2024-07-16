@@ -1,0 +1,15 @@
+{
+  "name": "converter-aac-mp3",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": ["Converter"],
+  "author": "yudibilly",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.3"
+  }
+}
